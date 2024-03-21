@@ -14,13 +14,13 @@ Adobe Premiere Pro es una potente aplicación de edición de video desarrollada 
 
 <p align="center">
    <a href="#">
-        <img src="https://img.shields.io/badge/Sistema%20Operativo-Windows-blue?style=for-the-badge&logo=windows" alt="Sistema Operativo Windows">
+       <img src="https://img.shields.io/badge/Sistema%20Operativo-Windows-blue?style=for-the-badge&logo=windows" alt="Sistema Operativo Windows">
     </a>
         <a href="#">
-        <img src="https://img.shields.io/badge/Plataforma-Unity%203D-green?style=for-the-badge&logo=unity" alt="Unity3D">
+           <img src="https://img.shields.io/badge/Lenguaje-Java-red?style=for-the-badge&logo=java" alt="Lenguaje Java">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/badge/Desarrollo%20de%20Juegos-Game%20Development-blueviolet?style=for-the-badge&logo=unity" alt="Game Development">
+          <img src="https://img.shields.io/badge/IDE-Eclipse-purple?style=for-the-badge&logo=eclipse" alt="IDE Eclipse">
     </a>
 </p>
 
