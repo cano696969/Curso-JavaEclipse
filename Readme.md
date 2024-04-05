@@ -111,7 +111,6 @@ Adobe Premiere Pro es una potente aplicación de edición de video desarrollada 
 
 <br/>
 
-![how-refine-works](https://github.com/cano696969/2D-unity-URP/assets/158393938/a6281877-72bc-4454-add8-77970cf27b49)
 
 -----------
 
