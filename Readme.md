@@ -1,33 +1,26 @@
-﻿Java - Eclipse IDE
-
-<p align="center">  
-  <h2 align="center"> Estructura de Presentacion en premier pro  </h2>
-
-<p/>
-<div class="slider-container" style="width: 70%; margin: auto;">
-
-
+ Java - Eclipse IDE
 <p align="center">
-Adobe Premiere Pro es una potente aplicación de edición de video desarrollada por Adobe Systems. Es parte de la suite de Adobe Creative Cloud y se utiliza ampliamente en la industria cinematográfica, televisiva y de producción de video. Premiere Pro ofrece una amplia gama de herramientas y características para editar videos, desde proyectos simples hasta producciones más complejas..</p>
-
-
-
-<p align="center">
-   <a href="#">
-       <img src="https://img.shields.io/badge/Sistema%20Operativo-Windows-blue?style=for-the-badge&logo=windows" alt="Sistema Operativo Windows">
-    </a>
-        <a href="#">
-           <img src="https://img.shields.io/badge/Lenguaje-Java-red?style=for-the-badge&logo=java" alt="Lenguaje Java">
-    </a>
-    <a href="#">
-          <img src="https://img.shields.io/badge/IDE-Eclipse-purple?style=for-the-badge&logo=eclipse" alt="IDE Eclipse">
-    </a>
+    <h2 align="center">Curso Introducción - Java Eclipse</h2>
 </p>
 
----
+<div class="contenedor deslizante" style="ancho: 70%; margen: auto;">
 
-
-
+ <p align="justify">Este repositorio contiene material didáctico y ejercicios prácticos para un curso de introducción a Java utilizando el entorno de desarrollo Eclipse. El curso está diseñado para brindar a los estudiantes una sólida comprensión de los fundamentos de la programación en Java, así como familiarizarlos con las características y herramientas proporcionadas por Eclipse para el desarrollo de software. Los materiales incluyen tutoriales paso a paso, ejemplos de código y proyectos prácticos para ayudar a los estudiantes a desarrollar sus habilidades en Java y Eclipse.</p>
+  <p align="center">
+     <a href="#">
+            <img src="https://img.shields.io/badge/Sistema%20Operativo-Windows-blue?style=for-the-badge&logo=windows" alt="Sistema Operativo Windows">
+        </a>
+        <a href="#">
+            <img src="https://img.shields.io/badge/Lenguaje-Java-red?style=for-the-badge&logo=java" alt="Lenguaje Java">
+        </a>
+        <a href="#">
+            <img src="https://img.shields.io/badge/IDE-¿Eclipse-purple?style=for-the-badge&logo=eclipse" alt="IDE Eclipse">
+        </a>
+        <a href="#">
+            <img src="https://img.shields.io/badge/Desarrollo%20con%20EclipseIDE%20-Java%20-amarillo?style=for-the-badge&logo=eclipse" alt="Desarrollo con EclipseIDE - Java">
+        </a>
+    </p>
+</div>
 
 <div align="center">
 
@@ -44,126 +37,110 @@ Adobe Premiere Pro es una potente aplicación de edición de video desarrollada 
 <br/>
 
 <div align="center">
-    <a href="https://unity.com/games">UnityPage</a> |
-    <a href="https://github.com/Unity-Technologies">Girhub</a> |
-    <a href="https://unity.com/es/education/distance-learning/">Recursos</a> |
-    <a href="https://assetstore.unity.com/">Assets </a> |
-    <a href="https://docs.unity3d.com/ScriptReference/index.html">Documentation</a>
+    <a href="https://eclipseide.org/">EclipseIDE</a> |
+    <a href="https://github.com/eclipse">Girhub</a> |
+    <a href="https://marketplace.eclipse.org/">Marketplace</a> |
+    <a href="https://eclipseide.org/working-group/#about">Acercade</a> |
+    <a href="https://help.eclipse.org/latest/index.jsp">Documentation</a>
 </div>
 </div>
 
 <br/>
 <br/>
 
+<div align="center"><strong> Entorno de Desarollo  <a href="https://reactjs.org/">Eclipse IDE </a> para el desarollo de software con lenguaje  de programacion Java SE , con interfaz GUI  Utilizando  librerias como </strong><br>El código fuente está disponible para que puedas descargarlo y configurarlo.
 
-
-<div align="center"><strong>Desarrollado Juegos  2D & 3D <a href="https://reactjs.org/">Unity </a> juego de plataforma 2D que ofrece una experiencia única con gráficos cautivadores</strong><br>El código fuente está disponible para que puedas descargarlo y configurarlo.
-
-
-
-
-<br />
 <br />
 
 </div>
-
-
-
-<p align="center">
-  <a href="https://www.npmjs.com/package/com.rmc.rmc-core">
-    <img src="https://img.shields.io/npm/v/com.rmc.rmc-core" alt="npm package">
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://unity.com/">
-    <img src="https://img.shields.io/badge/Plataforma-Unity-green" alt="Plataforma">
-  </a>
-  <a href="https://unity.com/">
-    <img src="https://img.shields.io/badge/Unity-2019.4%2B-blue" alt="Versión de Unity">
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/Lenguaje-C%23-blue" alt="Lenguaje de Programación">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/tuusuario/tuproyecto">
-    <img src="https://img.shields.io/badge/Estado-Estable-brightgreen" alt="Estado del Proyecto">
-  </a>
-  <a href="https://github.com/tuusuario/tuproyecto/docs">
-    <img src="https://img.shields.io/badge/Documentaci%C3%B3n-S%C3%AD-blue" alt="Documentación">
-  </a>
-  <a href="https://github.com/tuusuario/tuproyecto/blob/main/CONTRIBUTING.md">
-    <img src="https://img.shields.io/badge/Contribuciones-Bienvenidas-brightgreen" alt="Contribuciones Bienvenidas">
-  </a>
-</p>
-
-
-<div align="center">
-
-</div>
-
-</div>
-
-<br/>
-
 
 -----------
 
+###  Syllabus
 
-###  Tabla de Contenido 
-- [Portada](#portada)
-- [Introducción](#introducción)
-- [Objetivos de Aprendizaje](#objetivos-de-aprendizaje)
-- [Capítulo 1](#capítulo-1)
-  - [1.1 El papel actual de los sistemas de información en los negocios](#11-el-papel-actual-de-los-sistemas-de-información-en-los-negocios)
-  - [1.2 Perspectivas sobre los sistemas de información](#12-perspectivas-sobre-los-sistemas-de-información)
-  - [1.3 Metodologías contemporáneas para los sistemas de información](#13-metodologías-contemporáneas-para-los-sistemas-de-información)
-  - [1.4 Proyectos prácticos sobre MIS](#14-proyectos-prácticos-sobre-mis)
-- [Conclusiones](#conclusiones)
-- [Créditos](#créditos)
-
-
------
+**[Introducción al Proyecto Java](#introducción-al-proyecto-java)**
+- [¿Qué es Java?](#qué-es-java)
+- [Historia de Java](#historia-de-java)
+- [Equipo de Java](#equipo-de-java)
+- [Write Once, Run Anywhere](#write-once-run-anywhere)
+- [La Plataforma de Java](#la-plataforma-de-java)
+  - [Java Runtime Environment](#java-runtime-environment)
+    - [Máquina virtual](#máquina-virtual)
+    - [Bibliotecas](#bibliotecas)
+    - [Herramientas y utilidades adicionales](#herramientas-y-utilidades-adicionales)
+- [Importancia de la Programación Orientada a Objetos (POO)](#importancia-de-la-programación-orientada-a-objetos-poo)
 
 
-> Que es un lenguaje de programacion [chatgpt](https://chat.openai.com/).
+**[Programación Orientada a Objetos en Java](#programación-orientada-a-objetos-en-java)**
+- [Lenguajes de programación vs. Lenguaje Natural](#lenguajes-de-programación-vs-lenguaje-natural)
+- [Paradigmas de programación](#paradigmas-de-programación)
+  - [Imperativos / Procedural](#imperativos--procedural)
+  - [Declarativos](#declarativos)
+  - [Orientado a Objetos](#orientado-a-objetos)
+    - [Introducción](#introducción)
+      - **(4) Componentes**
+    - [Clases](#clases)
+    - [Propiedades](#propiedades)
+    - [Métodos](#métodos)
+    - [Objetos](#objetos)
+      - **(4) Pilares**
+    - [Encapsulamiento](#encapsulamiento)
+    - [Abstracción](#abstracción)
+    - [Herencia](#herencia)
+    - [Polimorfismo](#polimorfismo)
 
-Un lenguaje de programación es un conjunto de reglas y símbolos que permiten a un programador escribir instrucciones que una computadora puede entender y ejecutar. Estas instrucciones pueden variar desde operaciones simples, como sumar dos números, hasta algoritmos complejos para resolver problemas específicos.
+**[Eclipse IDE](#eclipse-ide)**
+- [Introducción a Eclipse IDE](#introducción-a-eclipse-ide)
+- [Eclipse y Java](#eclipse-y-java)
+- [Instalación y configuración de Eclipse IDE y Java Development Kit (JDK)](#instalación-y-configuración-de-eclipse-ide-y-java-development-kit-jdk)
+- [Editor y vistas de paneles](#editor-y-vistas-de-paneles)
 
-Los lenguajes de programación se componen de elementos como palabras clave, símbolos, operadores, y reglas de sintaxis que definen cómo se deben escribir y organizar las instrucciones. Estos lenguajes están diseñados para ser entendidos tanto por humanos como por máquinas, lo que significa que deben ser precisos y estructurados.
+**[Conceptos Básicos de Java](#conceptos-básicos-de-java)**
+- [Variables y tipos de datos](#variables-y-tipos-de-datos)
+- [Nomenclatura de Java](#nomenclatura-de-java)
+- [Operadores y expresiones](#operadores-y-expresiones)
+- [Estructuras de control](#estructuras-de-control)
+  - (if, else, while, for)
+- [Métodos y funciones](#métodos-y-funciones)
+  - [JavaDocs](#javadocs)
+  - [Tags JavaDocs](#tags-javadocs)
+- [JShell Java](#jshell-java)
+- [Casteo y Parseo](#casteo-y-parseo)
+- [Archivos .JAR](#archivos-jar)
 
-Existen diversos tipos de lenguajes de programación, cada uno con sus propias características y propósitos. Algunos son de alto nivel, como Python, Java o C++, que ofrecen abstracciones que facilitan la escritura de código, mientras que otros son de bajo nivel, como el lenguaje ensamblador, que están más cerca del lenguaje de la máquina y proporcionan un control más directo sobre el hardware.
+**[Manejo de Excepciones](#manejo-de-excepciones)**
+   - [Qué son las excepciones](#qué-son-las-excepciones)
+   - [Tipos de excepciones](#tipos-de-excepciones)
+   - [Captura y manejo de excepciones](#captura-y-manejo-de-excepciones)
 
-Los lenguajes de programación son una herramienta fundamental en el desarrollo de software y en la creación de aplicaciones informáticas de todo tipo, desde sistemas operativos y software de productividad hasta videojuegos y aplicaciones web.
+**[Colecciones en Java](#colecciones-en-java)**
+   - [Listas](#listas)
+   - [Conjuntos](#conjuntos)
+   - [Mapas](#mapas)
+   - [Iteración y manipulación de colecciones](#iteración-y-manipulación-de-colecciones)
+
+**[Entrada/Salida (E/S) en Java](#entradasalida-es-en-java)**
+   - [Lectura y escritura de archivos](#lectura-y-escritura-de-archivos)
+   - [Flujo de entrada y salida](#flujo-de-entrada-y-salida)
+   - [Serialización de objetos](#serialización-de-objetos)
+
+**[Programación Gráfica con Java Swing](#programación-gráfica-con-java-swing)**
+   - [Introducción a Java Swing](#introducción-a-java-swing)
+   - [Creación de interfaces gráficas de usuario (GUI)](#creación-de-interfaces-gráficas-de-usuario-gui)
+   - [Eventos y manejo de eventos](#eventos-y-manejo-de-eventos)
+
+**[Introducción a JavaFX](#introducción-a-javafx)**
+   - [Características de JavaFX](#características-de-javafx)
+   - [Creación de interfaces gráficas con JavaFX](#creación-de-interfaces-gráficas-con-javafx)
+   - [Manejo de eventos en JavaFX](#manejo-de-eventos-en-javafx)
+
+**[Acceso a Datos con JDBC](#acceso-a-datos-con-jdbc)**
+   - [Conexión a bases de datos](#conexión-a-bases-de-datos)
+   - [Consultas SQL desde Java](#consultas-sql-desde-java)
+   - [Actualización de datos desde Java](#actualización-de-datos-desde-java)
+
+**[Prácticas y Proyectos](#prácticas-y-proyectos)**
+    - [Desarrollo de pequeños proyectos para aplicar los conceptos aprendidos](#desarrollo-de-pequeños-proyectos-para-aplicar-los-conceptos-aprendidos)
+    - [Ejercicios y desafíos para reforzar el conocimiento adquirido](#ejercicios-y-desafíos-para-reforzar-el-conocimiento-adquirido)
 
 
-
-> Palabras reservadas
-
-
-Las palabras reservadas de Java 
-En todos los lenguajes de programación existen palabras con un significado 
-especial. Estas palabras son reservadas y no se pueden utilizar como 
-nombres de variables. 
-abstract final public 
-assert finally return 
-boolean float short 
-break for static 
-byte if strictfp 
-case implements super 
-catch import switch 
-char instanceof synchronized 
-class int this 
-continue interface throw 
-default long throws 
-do native transient 
-double new true 
-else null try 
-enum package void 
-extends private volatile 
-false protected while
